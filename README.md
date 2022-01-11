@@ -5,8 +5,8 @@ This is a simple API framework for PHP. It is based on [REST](http://en.wikipedi
 ## Features
 
  * Routing
- * Cache
  * Class mapping
+ * Cache (Coming soon)
 
 To do list:
-Add cache support
+Add cache support for with [cachehan](https://github.com/gokhancelebi/cachehan)
